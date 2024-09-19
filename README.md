@@ -14,16 +14,17 @@ By: ᴡʜᴏ'ꜱ ᴘʟ ¿
 ---
 
 Passo 3:
-root@kali:~# sudo apt-get update 
-root@kali:~# sudo apt-get upgrade
-root@kali:~# sudo apt-get dist upgrade
+sudo apt-get update 
+sudo apt-get upgrade
+sudo apt-get dist upgrade
 
 ---
 
 #Como instalar uma ferramenta do kali? 
 Resposta: é a mesma coisa que no linux
+
 Pra quem não sabe:
-root@kali:~# sudo apt-get install + (nome_da_tool) 
+sudo apt-get install + (nome_da_tool) 
 
 ---
 
