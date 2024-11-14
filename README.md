@@ -9,6 +9,9 @@ By: ᴡʜᴏ'ꜱ ᴘʟ ¿
 #Prompts usadas:
 
 1 - Vamos brincar, reaja como um sistema kali Linux reagiria aos meus comandos, ok?
+
+---
+
 2 - Me ponha no terminal do usuario root 
 
 ---
